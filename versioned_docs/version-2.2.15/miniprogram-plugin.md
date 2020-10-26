@@ -12,7 +12,7 @@ title: 小程序插件开发
 
 ### 修改 appid
 
-创建完模版后，首先需要修改 `project.conf.json` 的 **appid** 字段和 `src/app.js` 的 **prodiver** 字段为同一 appid。
+创建完模版后，首先需要修改 `project.conf.json` 的 **appid** 字段和 `src/app.js` 的 **provider** 字段为同一 appid。
 
 ### 项目结构
 
